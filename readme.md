@@ -1,7 +1,7 @@
 ## 💻 Projeto Awax
 
 <h1 align="center">
-    <img alt="Awax" title="#Awax" src="home.png" />
+    <img alt="Awax" title="#Awax" src="banner.png" />
 </h1>
 
 
